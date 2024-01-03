@@ -2,7 +2,7 @@ import streamlit as st
 
 from streamlit_option_menu import option_menu
 
-import statistic_studient, homepage, giaodiendiemdan
+import statistic_studient, homepage, giaodiendiemdanh
 
 st.set_page_config(
     page_title = "Ứng dụng điểm danh"
@@ -67,7 +67,7 @@ class MultiApp:
             if app == "Thong ke":
                 statistic_studient.app()
             if app == "Diem danh":
-                giaodiendiemdan.giaodien()
+                giaodiendiemdanh.giaodien()
 
         
            
