@@ -73,7 +73,7 @@ python main.py
 The results achieved by the face detection and classification model trained on your dataset will vary depending on various factors such as the quality of your dataset, the size of the training set, and the chosen hyperparameters. It is recommended to experiment with different configurations to achieve the best results for your specific use case.
 
 <p align="center">
-  <img src="data/diemdanh.png"width="541" height="541">
+  <img src="data/diemdanh.png"width="541" height="241">
 </p>
 
 ## References
